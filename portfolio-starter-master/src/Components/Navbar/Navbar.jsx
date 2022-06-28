@@ -1,6 +1,6 @@
 import './Navbar.css';
 
-const Navbar = () => {
+export const Navbar = () => {
     return (
         <div className="n-wrapper">
             <div className="n-left">
@@ -18,10 +18,9 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <button className="button n-button">
-                    Contact Me
+                    Contact
                 </button>
             </div>
         </div>
     );
-};
- export default Navbar
+};  

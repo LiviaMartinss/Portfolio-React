@@ -67,4 +67,27 @@
 
 .i-right{
     flex: 1;
+    position: relative;
+}
+
+.i-right>*{
+    position: absolute;
+    z-index: 1;
+}
+
+.i-right>:nth-child(1){
+    transform: scale(0.74);
+    left: -15%;
+    top: -9%;
+}
+
+.i-right>:nth-child(2){
+    transform: scale(0.77);
+    left: -3rem;
+    top: -4.6%;
+}
+
+.i-right>:nth-child(3){
+    transform: scale(1.4);
+    left: 28%;
 }
