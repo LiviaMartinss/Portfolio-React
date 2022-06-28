@@ -8,4 +8,4 @@ Este é um projeto totalmente livre que aceita contribuições via pull requests
 4. Insira um pequeno resumo dos links adicionados.
 
 ## Recomendação (Opcional)
-Para uma melhor semântica nos commits, recomendamos o repositório do iuricode sobre [COMMITS SEMÂNTICOS](https://github.com/iuricode/padroes-de-commits). Assim ficará mais fácil para avaliar seu pull request.
+Para uma melhor semântica nos commits, recomendamos o repositório do iuricode sobre [COMMITS SEMÂNTICOS](https://github.com/iuricode/padroes-de-commits). Assim ficará mais fácil para avaliar seu pull request. 
