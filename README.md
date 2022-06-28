@@ -12,6 +12,7 @@ the project still in development and the next updates will focus on the followin
 - [ ] intro
 - [ ] Home
 - [ ] Services
+- [ ] Dark mode
 
 ## 😄 Contributing <br>
 
