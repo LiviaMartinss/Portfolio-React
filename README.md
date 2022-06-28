@@ -1,6 +1,6 @@
 # React Portfolio Website
 
-![image](https://user-images.githubusercontent.com/95534704/176059012-6200e96a-fbac-457b-8d10-3876454d5a18.png)
+![image](https://user-images.githubusercontent.com/95534704/176169650-41643f2d-ccd6-455a-aba5-9065e8d4f100.png)
 
 > This is a responsive website made with React
 
@@ -12,6 +12,7 @@ the project still in development and the next updates will focus on the followin
 - [ ] intro
 - [ ] Home
 - [ ] Services
+- [ ] Dark mode
 
 ## 😄 Contributing <br>
 
