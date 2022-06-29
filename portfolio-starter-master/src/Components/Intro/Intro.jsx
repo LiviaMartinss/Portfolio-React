@@ -28,7 +28,7 @@ export const Intro = () => {
             <div className="i-icons">
                 <img src={Github} alt=""></img>
                 <img src={Linkedin} alt=""></img>
-                <img src={Instagram} alt=""></img>
+                <img src={Instagram} alt="a"></img>
             </div>
 
            </div>
