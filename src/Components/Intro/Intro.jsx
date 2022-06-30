@@ -1,7 +1,7 @@
 import './Intro.css';
-import Instagram from '../../img/Instagram.png'
-import Github from '../../img/Github.png'
-import Linkedin from '../../img/Linkedin.png'
+import Instagram from '../../img/instagram.png'
+import Github from '../../img/github.png'
+import Linkedin from '../../img/linkedin.png'
 import Vetor1 from '../../img/Vetor1.png'
 import Vetor2 from '../../img/Vetor2.png'
 import girl from '../../img/girl.png'

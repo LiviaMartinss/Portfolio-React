@@ -1,6 +1,6 @@
 # React Portfolio Website
 
-![image](https://user-images.githubusercontent.com/95534704/176169650-41643f2d-ccd6-455a-aba5-9065e8d4f100.png)
+![image](https://user-images.githubusercontent.com/95534704/176410453-bc902ffe-ba61-4319-a3d9-f46f3474152f.png)
 
 > This is a responsive website made with React
 
