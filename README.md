@@ -9,9 +9,9 @@
 the project still in development and the next updates will focus on the following tasks:
 
 - [x] Navbar
-- [ ] intro
-- [ ] Home
-- [ ] Services
+- [x] intro
+- [x] Home
+- [x] Services
 - [ ] Dark mode
 
 ## 😄 Contributing <br>
