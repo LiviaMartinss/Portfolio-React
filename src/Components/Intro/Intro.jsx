@@ -17,7 +17,7 @@ export const Intro = () => {
             <div className="i-name">
 
                 <span>Hello!</span>
-                <span> I am Lívia Martins</span>
+                <span> I am Lívia Martins ;)</span>
                 <span> Frontend Developer Junior, 
                     with experience in web designing and development.</span>
 
@@ -49,7 +49,7 @@ export const Intro = () => {
 
             {/* blur divs*/}
             <div className="blur" style={{ background : " rgb (236 210 255)" }}></div>
-            <div className="blur" style={{background : '#C1F5FF', top: '17rem', width: '21rem', height: '11rem', left: '-9rem'}}></div>
+            <div className="blur" style={{background : 'RGB(239, 207, 223)', top: '17rem', width: '21rem', height: '11rem', left: '-9rem'}}></div>
 
 
             </div>

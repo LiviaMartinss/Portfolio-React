@@ -2,14 +2,16 @@ import './Experience.css'
 
 export const Experience = () => {
     return(
+        
         <div className="experience">
-
+            <div className="blur s-blur1" style={{ background: "ABF1FF94" }}></div>
+           
             <div className="achievement">
                 <div className="circle">8+</div>
                 <span>Years</span>
                 <span>Experience</span>
             </div>
-
+            
             <div className="achievement">
                 <div className="circle">20+</div>
                 <span>completed</span>
@@ -21,7 +23,8 @@ export const Experience = () => {
                 <span>companies</span>
                 <span>work</span>
             </div>
-
+            
         </div>
+        
     )
 }

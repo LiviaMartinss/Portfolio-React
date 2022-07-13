@@ -66,9 +66,10 @@
     background: white;
 }
 
-.w-secCircle > img {
+.w-secCircle > img  {
     transform: scale(0.6);
 }
+
 
 .w-backCircle {
     position: absolute;

@@ -1,26 +1,32 @@
 import './Work.css';
-import Upwork from "../../img/Upwork.png"
-import Fiverr from "../../img/fiverr.png"
-import Amazon from "../../img/amazon.png"
-import Shopify from "../../img/Shopify.png"
-import Facebook from "../../img/Facebook.png"
+import React from "../../img/atom.png"
+import Typescript from "../../img/typescript.png"
+import Javascript from "../../img/javascript.png"
+import Css from "../../img/css.png"
+import Html from "../../img/html-5.png"
 
 export const Work = () => {
+
     return(
+
         <div className="works">
+
             <div className="awesome">
-                <span>Works for All these</span>
-                <span>Brands & Clients</span>
+                
+                <span>This is</span>
+                <span>my technologies ツ</span>
                 <span>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut repellendus, iure nostrum libero sit quia veritatis veniam! 
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Ut repellendus, iure nostrum libero sit quia veritatis veniam! 
                     <br />
                     Ab, recusandae quia. 
                     <br />
                     Ab, recusandae quia. 
                     <br />
+
                 </span>
 
-                    <button className="button s-button">Hire me</button>
+                    <button className="button s-button">Read more</button>
                                
                 <div className="blur s-blur1" style={{ background: "ABF1FF94" }}></div>
             </div>
@@ -28,26 +34,27 @@ export const Work = () => {
             {/* right side */}
 
             <div className="w-right">
+                
                 <div className="w-mainCircle">
 
-                    <div className="w-secCircle">
-                        <img src={Upwork} alt="" />
+                    <div className="w-secCircle react">
+                        <img src={React} alt="" />
                     </div>
 
                     <div className="w-secCircle">
-                        <img src={Fiverr} alt="" />
+                        <img src={Typescript} alt="" />
                     </div>
 
                     <div className="w-secCircle">
-                        <img src={Shopify} alt="" />
+                        <img src={Javascript} alt="" />
                     </div>
 
                     <div className="w-secCircle">
-                        <img src={Amazon} alt="" />
+                        <img src={Html} alt="" />
                     </div>
 
                     <div className="w-secCircle">
-                        <img src={Facebook} alt="" />
+                        <img src={Css} alt="" />
                     </div>
                 </div>
 
