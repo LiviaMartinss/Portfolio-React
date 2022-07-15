@@ -4,6 +4,7 @@ import './App.css'
 import { Services } from "./Components/Services/Services";
 import { Experience } from "./Components/Experience/Experience";
 import { Work } from "./Components/Works/Works";
+import { Portfolio } from "./Components/Portfolio/Portfolio";
 
 export const App = () => {
   return (
@@ -13,6 +14,7 @@ export const App = () => {
       <Services />
       <Experience />
       <Work />
+      <Portfolio />
     </div>
   );
 };
