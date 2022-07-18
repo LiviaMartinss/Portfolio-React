@@ -2,9 +2,6 @@ import './Portfolio.css';
 import {Swiper, SwiperSlide} from 'swiper/react'
 import Sidebar from "../../img/sidebar.svg"
 import 'swiper/css';
-import Javascript from "../../img/javascript.png"
-import Css from "../../img/css.png"
-import Html from "../../img/html-5.png"
 
 export const Portfolio = () => {
     return(
@@ -18,7 +15,7 @@ export const Portfolio = () => {
             {/* slider */}
 
             <Swiper 
-            spaceBetween={-800}
+            spaceBetween={100}
             slidesPerView={3}
             grabCursor={true}
             className='portfolio-slider'
