@@ -13,6 +13,8 @@ the project still in development and the next updates will focus on the followin
 - [x] Home
 - [x] Services
 - [ ] Dark mode
+- [ ] Responsivity
+
 
 ## 😄 Contributing <br>
 
