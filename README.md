@@ -27,4 +27,4 @@ Please make sure to update tests as appropriate.
 
  See [License](LICENSE.md) for more details.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Back to the top](#nome-do-projeto)<br>
