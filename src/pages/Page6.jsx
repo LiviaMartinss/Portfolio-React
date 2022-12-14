@@ -9,13 +9,14 @@ import { Testimonials } from "../Components/Testimonials/Testimonial";
 import { Contact } from "../Components/Contact/Contact";
 
 
-const Main = () => {
+const Page6 = () => {
     return (
        <div className="App">
             <Navbar />
-            <Intro />
+            <Contact />
        </div>
+
     );
 };
 
-export default Main;
+export default Page6;

@@ -30,8 +30,12 @@ export const Contact = () => {
 
             <div className="c-right">
                 <form ref={form} onSubmit={sendEmail}>
+                    <input type="Subject" name="user-subject" className="user" placeholder="Subject" />
                     <input type="text" name="user-name" className="user" placeholder="Name" />
                     <input type="Email" name="user-email" className="user" placeholder="Email" />
+                    <input type="Number" name="user-number" className="user" placeholder="Number" />
+                    <input type="PhoneNumber" name="user-phoneNumber" className="user" placeholder="PhoneNumber" />
+                    <input type="Adress" name="user-Adress" className="user" placeholder="Adress (opitional)" />
                     <textarea name="message" className="user" placeholder="Message" />
                     <input type="submit" value="send" className="button" />
                     <div
